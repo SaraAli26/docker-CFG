@@ -2,6 +2,9 @@
 
 In this file, you'll find some of the commands that you might use, along with explanations for each:
 
+**Note**:
+Whenever you find ```<image_name>``` or ```<container_id>``` know that you need to change it with the corresponding name or id, and the ```<>``` will be removed. 
+
 - **docker pull <image_name>**: 
   This command downloads a Docker image from a registry (like Docker Hub) to your local machine. For example, `docker pull mysql` will fetch the latest MySQL image.
 

@@ -1,6 +1,6 @@
 # Common Docker Commands
 
-In this file, you'll find some of the commands that you will use, along with explanations for each:
+In this file, you'll find some of the commands that you might use, along with explanations for each:
 
 - **docker pull <image_name>**: 
   This command downloads a Docker image from a registry (like Docker Hub) to your local machine. For example, `docker pull mysql` will fetch the latest MySQL image.

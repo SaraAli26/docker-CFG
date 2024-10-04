@@ -1,4 +1,4 @@
-# Common Docker Concepts - and other concepts
+# Talk in Docker - and other realted concepts
 
 ## Docker
 Docker is a platform that allows developers to automate the deployment of applications inside lightweight, portable containers. It enables applications to run consistently across various computing environments.

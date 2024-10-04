@@ -1,4 +1,4 @@
-# Common Docker Concepts
+# Common Docker Concepts - and other concepts
 
 ## Docker
 Docker is a platform that allows developers to automate the deployment of applications inside lightweight, portable containers. It enables applications to run consistently across various computing environments.
@@ -18,6 +18,7 @@ A container is a runtime instance of a Docker image. It includes the application
 ## CMD or Terminal
 The CMD or terminal is a command-line interface that allows users to interact with the operating system. In the context of Docker, you can use the terminal to execute Docker commands for managing images and containers.
 You can either use your PC terminal, or the terminal integrated in intellij. 
+If you are using your PC termina, make sure that you are at the correct direcorty using the commands dc and cd.. (according to your operatinf system) 
 
 ## Containerizing
 Containerizing is the process of packaging an application and its dependencies into a Docker container. This ensures that the application runs consistently across different environments, whether it's on a developer's machine, in a test environment, or in production.

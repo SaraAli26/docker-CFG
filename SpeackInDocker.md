@@ -15,6 +15,8 @@ An image is a lightweight, standalone, and executable package that includes ever
 ## Container
 A container is a runtime instance of a Docker image. It includes the application and its dependencies but runs in isolation from the host system. Containers are lightweight and share the OS kernel, making them faster and more efficient than traditional virtual machines.
 
+So, Docker images and containers are fundamental concepts in Docker's architecture. An image is a lightweight, standalone, and executable package that includes everything needed to run a piece of software, such as code, libraries, and dependencies. It serves as the blueprint for creating containers. A container, on the other hand, is a running instance of an image. It encapsulates the application environment and its runtime, allowing it to execute in isolation. While an image remains static and can be shared, a container is dynamic and can be started, stopped, and modified during its lifecycle. Thus, images are the source from which containers are instantiated, highlighting their interdependent relationship.
+
 ## CMD or Terminal
 The CMD or terminal is a command-line interface that allows users to interact with the operating system. In the context of Docker, you can use the terminal to execute Docker commands for managing images and containers.
 You can either use your PC terminal, or the terminal integrated in intellij. 
